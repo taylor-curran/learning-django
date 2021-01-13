@@ -3,6 +3,8 @@ ASGI config for mysite project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
+ASGI = the emerging Python standard for asynchronous web servers and applications
+
 For more information on this file, see
 https://docs.djangoproject.com/en/3.0/howto/deployment/asgi/
 """

@@ -1,5 +1,7 @@
 """mysite URL Configuration
 
+This is the place where your URL patterns live. Each URL defined here is mapped to a view.
+
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
 Examples:
