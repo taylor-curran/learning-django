@@ -1,0 +1,3 @@
+- In Django, a **project** is considered a Django installation with some settings. An **application** is a group of models, views, templates, and URLs.
+- Applications interact with the framework to provide some specific functionalities and may be reused in various projects. 
+- You can think of a project as your website, which contains several applications, such as a blog, wiki, or forum, that can also be used by other projects.
